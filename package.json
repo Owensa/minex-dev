@@ -1,10 +1,10 @@
 {
   "name": "@coreui/react",
   "version": "1.0.10",
-  "description": "Open Source Bootstrap Admin Template",
-  "author": "Łukasz Holeczek",
-  "homepage": "http://coreui.io",
-  "copyright": "Copyright 2018 creativeLabs Łukasz Holeczek",
+  "description": "MineEX by MINEMY",
+  "author": "Andrew Owens",
+  "homepage": "http://mineq.co",
+  "copyright": "Copyright 2018 MINEMY ",
   "license": "MIT",
   "private": true,
   "devDependencies": {
